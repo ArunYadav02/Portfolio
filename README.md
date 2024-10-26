@@ -1,7 +1,5 @@
 # Portfolio
 
-Here's a GitHub README description based on your information. This will help give potential collaborators or employers a strong sense of your background and goals.
-
 Hi there! 👋 I'm Arun Yadav
 I’m currently a second-year Computer Science student at Brunel University, passionate about software development and data analysis, and actively seeking a placement in these fields.
 
