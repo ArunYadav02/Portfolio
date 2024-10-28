@@ -145,6 +145,10 @@ body {
     padding: 25px;
     text-align: left;
 }
+#projects .projects-container .projects-row .project-card:hover{
+    width: 40%;
+
+}
 
 .project-card img {
     max-width: 100%;
@@ -313,7 +317,9 @@ footer {
         width: 100%; /* Full width for project cards on mobile */
         margin-bottom: 20px;
     }
-
+    #projects .projects-container .projects-row .project-card:hover{
+        width: 90%;
+        background-color: #e9e6e6;}
     /* Contact Section */
     #contact {
         padding: 40px 15px;
